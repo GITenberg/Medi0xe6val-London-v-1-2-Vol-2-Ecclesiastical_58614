@@ -1,11 +1,16 @@
 _repo: Medi0xe6val-London-v-1-2-Vol-2-Ecclesiastical_58614
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58614-h/images/cover.jpg
 creator:
   author:
     agent_name: Besant, Walter (Sir)
     gutenberg_agent_id: '50056'
     url: http://www.gutenberg.org/2009/agents/50056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58614#Medi0xe6val-London-v-1-2-Vol-2-Ecclesiastical
 gutenberg_issued: '2019-01-04'
 gutenberg_type: Text
 identifiers:
